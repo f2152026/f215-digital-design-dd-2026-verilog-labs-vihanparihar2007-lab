@@ -29,6 +29,7 @@ module cla4(
   output       cout
 );
 
+ 
   wire p0, p1, p2, p3;
   wire g0, g1, g2, g3;
   wire c1, c2, c3, c4;
